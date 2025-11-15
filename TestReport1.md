@@ -1,4 +1,4 @@
-# 🧾 Website Test Report – Butwal Multiple Campus
+#  Website Test Report – Butwal Multiple Campus
 
 **Date:** 06/11/2025  
 **Website URL:** [http://bumc.edu.np](http://bumc.edu.np)  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩 Pre-requirements
+##  Pre-requirements
 
 - Website accessible via [https://bumc.edu.np](https://bumc.edu.np)  
 - Internet connection stable  
@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 Platforms Tested On
+##  Platforms Tested On
 
 - **Microsoft Edge (Windows 11)**  
 - **Brave Browser (Windows 11)**  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧪 Detailed Test Cases
+##  Detailed Test Cases
 
 | **Test Case ID** | **Test Steps** | **Expected Result** | **Actual Result** | **Status** | **Comments** |
 |------------------|----------------|----------------------|-------------------|-------------|---------------|
@@ -41,7 +41,7 @@
 
 ---
 
-## ✅ Post-Conditions
+##  Post-Conditions
 
 - User experience is **inconsistent** due to broken links, missing SSL, and incomplete UI sections.  
 - Navigation is **partially functional**, but some forms and buttons need debugging and working file links.  
@@ -49,7 +49,7 @@
 
 ---
 
-## 🛠️ Recommendations
+##  Recommendations
 
 1. **Install a valid SSL certificate** (via *Let’s Encrypt* or *Cloudflare*) to secure the site.  
 2. **Replace placeholder content** (“Lorem ipsum”) with real testimonials and text.  
